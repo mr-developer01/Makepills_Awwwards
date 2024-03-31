@@ -1,0 +1,16 @@
+@media (max-width: 500px) {
+  #myVideo {
+    object-fit: cover;
+    top: 0px;
+    width: 100%;
+    height: 110%;
+  }
+
+  #side-cntnt .hide p {
+    transform: translateY(75px);
+  }
+
+  .cntnt-h1 {
+    font-size: 7vw;
+  }
+}
